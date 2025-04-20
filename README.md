@@ -25,13 +25,17 @@ Basic String Manipulation and Regex
 Clone the repository:
 
 git clone https://github.com/your-username/java-notes-manager.git
+
 cd java-notes-manager
 
 Compile and run the program:
 
 javac NoteUtilityApp.java
+
 java NoteUtilityApp
+
 🎓 Ideal For
+
 Students learning Java
 
 Beginners practicing file handling and string processing
