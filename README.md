@@ -1,7 +1,9 @@
 📓 Java Notes Manager
+
 A simple Java-based command-line application to manage and analyze notes stored in text files. The Notes Manager allows users to create, view, copy, and analyze text content within two predefined files (JavaFile1.txt and JavaFile2.txt). It’s a great beginner-friendly project to understand file handling, string processing, and basic Java I/O operations.
 
 🔧 Features
+
 ✍️ Create Notes: Type and save custom content to JavaFile1.txt or initialize default content in JavaFile2.txt.
 
 📂 View Notes: Display contents of either file directly in the terminal.
@@ -10,13 +12,6 @@ A simple Java-based command-line application to manage and analyze notes stored 
 
 🔍 Analyze File: Count lines, words, characters, and search for specific word occurrences in JavaFile1.txt.
 
-📁 Folder Structure
-bash
-Copy
-Edit
-/notes
-├── JavaFile1.txt
-├── JavaFile2.txt
 🛠️ Technologies Used
 Java (Core)
 
@@ -29,16 +24,11 @@ Basic String Manipulation and Regex
 🚀 How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/java-notes-manager.git
 cd java-notes-manager
+
 Compile and run the program:
 
-bash
-Copy
-Edit
 javac NoteUtilityApp.java
 java NoteUtilityApp
 🎓 Ideal For
@@ -46,4 +36,3 @@ Students learning Java
 
 Beginners practicing file handling and string processing
 
-CLI app enthusiasts
